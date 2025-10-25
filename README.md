@@ -108,7 +108,7 @@ Click the live demo link above to interact with filters, drill-downs, and toolti
 3. Explore, modify, or extend the analysis
 
 # Clone this repo
-git clone https://github.com/<your-username>/tableau-sales-customer-insights.git
+git clone https://github.com/rachitagrawal03/Sales-Customer-Analytics-Tableau-Dashboard.git
 
 ```
 

@@ -43,7 +43,8 @@ Focuses on customer acquisition, order behavior, and high-value customer identif
 - **Retention Signals:** Month-over-month customer and order trends
 - **Behavioral Insights:** 400 customers placed 1–2 orders; high-frequency buyers (3+ orders) drive significant revenue
 
-![Customer Dashboard](dashboard images/Customer Dashboard.png)
+![Customer Dashboard](Sales-Customer-Analytics-Tableau-Dashboard/dashboard images
+/Customer Dashboard.png)
 
 ---
 

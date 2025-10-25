@@ -1,5 +1,4 @@
-# Sales-Customer-Analytics-Tableau-Dashboard
-Interactive Tableau dashboards for Sales and Customer analytics, including KPIs, category performance, cohort/funnel trends, customer distribution, and top customers by profit. Includes dataset, Tableau workbook, Public project link, and dashboard images for reference.
+# Sales & Customer Analytics Dashboard
 
 **Interactive Tableau dashboards analyzing 2023 sales and customer performance metrics**
 
@@ -30,7 +29,7 @@ Analyzes revenue, profit, and quantity trends with category-level granularity.
 - **Loss/Profit Segmentation:** Identifies high-profit categories (Copiers: +$8K) and loss-making products (Machines, Tables, Supplies)
 - **Time-Series Insights:** Weekly sales and profit fluctuations with average benchmarks ($14K sales avg., $2K profit avg.)
 
-![Sales Dashboard](images/Sales-Dashboard.jpg)
+![Sales Dashboard](dashboard images/Sales Dashboard.png)
 
 ---
 
@@ -44,7 +43,7 @@ Focuses on customer acquisition, order behavior, and high-value customer identif
 - **Retention Signals:** Month-over-month customer and order trends
 - **Behavioral Insights:** 400 customers placed 1–2 orders; high-frequency buyers (3+ orders) drive significant revenue
 
-![Customer Dashboard](images/Customer-Dashboard.jpg)
+![Customer Dashboard](dashboard images/Customer Dashboard.png)
 
 ---
 
@@ -67,7 +66,6 @@ tableau-sales-customer-insights/
 ├── images/
 │   ├── Sales-Dashboard.jpg         # Sales dashboard screenshot
 │   └── Customer-Dashboard.jpg      # Customer dashboard screenshot
-├── index.html                      # Embedded dashboard viewer
 └── README.md                       # This file
 ```
 

@@ -1,0 +1,5 @@
+# ignore workbook files
+*.twbx
+*.twb
+*.xlsx
+SalesDashboard*.*
